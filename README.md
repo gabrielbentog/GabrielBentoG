@@ -8,7 +8,7 @@
   <img align="center" alt="Gabriel-rb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Gabriel-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/7c/79/e6/7c79e62ad27fbf7815f56ddbdfb2ac01.jpg"/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
   ##
