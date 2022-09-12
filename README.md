@@ -1,8 +1,8 @@
 ## Olá, me chamo Gabriel Bento
 <div align="center">
   <a href="https://github.com/GabrielBentoG ">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBentoG)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBentoG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBentoG)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBentoG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div style="display: inline_block"><br>
