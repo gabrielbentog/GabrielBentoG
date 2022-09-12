@@ -1,9 +1,8 @@
 ## Olá, me chamo Gabriel Bento
 <div align="center">
   <a href="https://github.com/GabrielBentoG ">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBentoG)]
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBentoG&layout=compact&langs_count=7&theme=dracula">
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-rb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
